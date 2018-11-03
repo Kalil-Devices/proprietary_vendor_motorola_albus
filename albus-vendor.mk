@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/albus/proprietary/etc/permissions/privapp-permissions-com.motorola.projectormod.xml:system/etc/permissions/privapp-permissions-com.motorola.projectormod.xml \
     vendor/motorola/albus/proprietary/framework/com.motorola.camerabgproc.jar:system/framework/com.motorola.camerabgproc.jar \
     vendor/motorola/albus/proprietary/lib64/libmodhw.so:system/lib64/libmodhw.so \
-    vendor/motorola/albus/proprietary/lib/libiio.so:system/lib/libiio.so \
+    vendor/motorola/albus/proprietary/lib/libiio.so:system/vendor/lib/libiio.so \
     vendor/motorola/albus/proprietary/vendor/bin/hw/motorola.hardware.mods_camera.provider@2.4-service:system/vendor/bin/hw/motorola.hardware.mods_camera.provider@2.4-service \
     vendor/motorola/albus/proprietary/vendor/bin/mm-qcamera-app:system/vendor/bin/mm-qcamera-app \
     vendor/motorola/albus/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
